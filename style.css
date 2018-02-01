@@ -1,0 +1,161 @@
+.navbar-inverse {
+    background-color: #e6e6e6;
+    border-color: #e6e6e6;
+}
+.container {
+    width: 100%;
+	height:70px;
+}
+.container1{
+	width: 100%;
+	height:100%;
+}
+
+.container2{
+	width: 100%;
+	height:100%;
+}
+.section {
+    padding: 80px 0 100px;
+}
+.shell {
+    max-width: 1365px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+}
+.logo-large {
+    background-image: url(images/short-logo.png);
+    background-position: 69.07020872865274% 49.09090909090909%;
+    background-size: 758.75% 492.8571428571429%;
+    width: 80px;
+    height: 112px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 0;
+}
+.p {
+    margin: 25px 0 10px;
+}
+.section__head.animate{
+    order: 1;
+    padding-left: 99px;
+    padding-right: 0;
+}
+.article .h2 .a {
+    position: relative;
+    text-decoration: none;
+    padding-bottom: 22px;
+    display: inline-block;
+    letter-spacing: 0.002em;
+}
+
+.a {
+    color: inherit;
+}
+
+.article-reversed .article__content {
+    order: 1;
+    padding-left: 99px;
+    padding-right: 0;
+}
+.cid-qI32UXHTby {
+    padding-top: 30px;
+    padding-bottom: 30px;
+	height:320px;
+	width:100%;
+}
+.containerit{
+    width: 100%;
+	height:260px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.media-container-row {
+	width: 1110px;
+	height:260px;
+    
+    display: flex;
+    
+    justify-content: center;
+
+    align-content: center;
+   
+    align-items: start;
+}
+.mbr-figure{
+	align-self: center
+}
+.media-content{
+	width: 657px;
+	height:242px;
+}
+.cid-qI32UXHTby H1 {
+    color: #4f4c43;
+}
+
+.display-2 {
+    font-family: 'Open-sans', display;
+    font-size: 3rem;
+}
+.mbr-section-title {
+    font-style: normal;
+    line-height: 1.2;
+}
+.cid-qI32UXHTby .mbr-text {
+    color: #894f4f;
+}
+
+
+.display-5 {
+    font-family: 'open-sans', sans-serif;
+    font-size: 1.7rem;
+}
+
+.mbr-text {
+    font-style: normal;
+    line-height: 1.6;
+}
+
+
+.footer {
+	 background-color: #e6e6e6;
+	color: white;
+	padding: 20px 0 10px;
+	font-size: 12px;
+}
+
+.p {
+	margin: 0;
+}
+
+.a:link,.a:visited {
+	color: white;
+}
+
+.a:hover {
+	color: #dd5638;
+}
+
+
+/* .article .article__content {
+    flex: 0 0 43%;
+    max-width: 43%;
+}
+.articles .article + .article {
+    margin-top: 209px;
+}
+.article {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+ 
+ 
+
+
+
